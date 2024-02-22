@@ -1,0 +1,61 @@
+{
+    "data" : [
+        {
+            "id": 0,
+            "img": "https://avion-uz.vercel.app/img/p1.png",
+            "name": "the dandy chair",
+            "price": 250,
+            "liked": false,
+            "more" : "A timeless ceramic vase with a tri color grey glaze"
+          }, {
+            "id": 1,
+            "img": "https://avion-uz.vercel.app/img/p2.png",
+            "name": "rustic vase set",
+            "liked": false,
+            "price": 155,
+            "more" : "A timeless ceramic vase with a tri color grey glaze"
+          }, {
+            "id": 2,
+            "img": "https://avion-uz.vercel.app/img/p3.png",
+            "name": "the sily vase",
+            "liked": false,
+            "price": 125,
+            "more" : "A timeless ceramic vase with a tri color grey glaze"
+          }, {
+            "id": 3,
+            "img": "https://avion-uz.vercel.app/img/p4.png",
+            "name": "the lucy lamp",
+            "liked": false,
+            "price": 199,
+            "more" : "A timeless ceramic vase with a tri color grey glaze"
+          }, {
+            "id": 4,
+            "img": "https://avion-uz.vercel.app/img/p5.png",
+            "name": "the lucy lamp",
+            "liked": false,
+            "price": 399,
+            "more" : "A timeless ceramic vase with a tri color grey glaze"
+          }, {
+            "id": 5,
+            "img": "https://avion-uz.vercel.app/img/p6.png",
+            "name": "the lucy lamp",
+            "liked": false,
+            "price": 399,
+            "more" : "A timeless ceramic vase with a tri color grey glaze"
+          }, {
+            "id": 6,
+            "img": "https://avion-uz.vercel.app/img/p7.png",
+            "name": "the lucy lamp",
+            "liked": false,
+            "price": 399,
+            "more" : "A timeless ceramic vase with a tri color grey glaze"
+          }, {
+            "id": 7,
+            "img": "https://avion-uz.vercel.app/img/p8.png",
+            "name": "the lucy lamp",
+            "liked": false,
+            "price": 399,
+            "more" : "A timeless ceramic vase with a tri color grey glaze"
+          }
+    ]
+}
